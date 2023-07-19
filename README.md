@@ -11,9 +11,6 @@ Getting Started
 2. Open the project in Android Studio
 3. Test the project and make sure it is running as expected
 
-Tasks
----------------
-
 Tips
 ----
 
